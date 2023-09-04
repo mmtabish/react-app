@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-appc/static/css/main.7064deb2.css",
+    "main.js": "/react-appc/static/js/main.41f225b0.js",
+    "index.html": "/react-appc/index.html",
+    "main.7064deb2.css.map": "/react-appc/static/css/main.7064deb2.css.map",
+    "main.41f225b0.js.map": "/react-appc/static/js/main.41f225b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.41f225b0.js"
+  ]
+}
